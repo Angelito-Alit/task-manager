@@ -1,0 +1,26 @@
+/* Estilos globales */
+body {
+    margin: 0;
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fuente divertida */
+    background-color: #836c49; /* Fondo amarillo */
+    color: #34495E; /* Color de texto principal */
+  }
+  
+  h1, h2, h3 {
+    color: #D35400; /* Color de títulos */
+  }
+  
+  button {
+    background-color: #E67E22; /* Color de botones */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #D35400; /* Cambio de color al pasar el mouse */
+  }
